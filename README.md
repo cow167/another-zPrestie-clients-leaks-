@@ -1,2 +1,2 @@
-# another zPrestie clients
+# others zPrestie clients
 crash when run (fire)
